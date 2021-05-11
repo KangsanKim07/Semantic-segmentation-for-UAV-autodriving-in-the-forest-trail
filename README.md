@@ -1,2 +1,2 @@
-# Search_emergency_patient_with_UAV_following_the_forest_trainl
+# Semantic Segmentation for UAV autodriving in the forest trail
 2020 Summer/Fall KAIST URP Program
