@@ -17,6 +17,8 @@ Maps need various types of tree style, those are I used which are all in the UE 
 * Season_trees_VOL1
 * Tropical_Jungle_Pack
 
+![map_image](./forest_trail.png)
+
 # ICNet
 I adapted ICNet to forest trail dataset. There are 5 classes: sky(#37b539), tree(#977eab), grass(#e8fa50), rock(#115bed), and ground(#bb469c). You can download pretrained model in this [link](https://drive.google.com/drive/folders/1ztdfK7ipF8yrvuTdXQKShOmiGoF3LSGc?usp=sharing). Base codes are from [@liminn/ICNet-pytorch](https://github.com/liminn/ICNet-pytorch).
 
