@@ -17,12 +17,12 @@ Maps need various types of tree style, those are I used which are all in the UE 
 * Season_trees_VOL1
 * Tropical_Jungle_Pack
 
-![map_image](./forest_trail.png)
+<img src="./forest_trail.png" width="70%">
 
 # ICNet
 I adapted ICNet to forest trail dataset. There are 5 classes: sky(#37b539), tree(#977eab), grass(#e8fa50), rock(#115bed), and ground(#bb469c). You can download pretrained model in this [link](https://drive.google.com/drive/folders/1ztdfK7ipF8yrvuTdXQKShOmiGoF3LSGc?usp=sharing). Base codes are from [@liminn/ICNet-pytorch](https://github.com/liminn/ICNet-pytorch).
 
-![icnet_image](./ICNet_result.gif)
+<img src="./ICNet_result.gif" width="70%">
 
 # CYCADA
 I used [@jhoffman/cycada_release](https://github.com/jhoffman/cycada_release) for domain adaptation between UE map and real world. In this [link](https://drive.google.com/drive/folders/1oWULfUJIBxucURe1E7VjUjHbzlZaZHIG?usp=sharing), there are datasets for Cycle-GAN stage and you can download pretrained models for ADDA stage in this [link](https://drive.google.com/drive/folders/1-SNGA4TVDaxPdSA6xelVX2QHCxpNx9jJ?usp=sharing). 
