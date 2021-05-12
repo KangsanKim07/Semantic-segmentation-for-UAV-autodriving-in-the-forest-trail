@@ -27,3 +27,11 @@ I adapted ICNet to forest trail dataset. There are 5 classes: sky(#37b539), tree
 # CYCADA
 I used [@jhoffman/cycada_release](https://github.com/jhoffman/cycada_release) for domain adaptation between UE map and real world. In this [link](https://drive.google.com/drive/folders/1oWULfUJIBxucURe1E7VjUjHbzlZaZHIG?usp=sharing), there are datasets for Cycle-GAN stage and you can download pretrained models for ADDA stage in this [link](https://drive.google.com/drive/folders/1-SNGA4TVDaxPdSA6xelVX2QHCxpNx9jJ?usp=sharing). 
 
+<div>
+  <img src="./cycada_result1.png" width="30%">
+  <img src="./cycada_result2.png" width="30%">
+</div>
+<div>
+  <img src="./cycada_result3.png" width="30%">
+  <img src="./cycada_result4.png" width="30%">
+</div>
